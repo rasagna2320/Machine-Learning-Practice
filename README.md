@@ -5,7 +5,7 @@ This space documents my **daily progress**, learnings, and hands-on practice as 
 
 ---
 
-## 🧠 What You’ll Find Here
+##  What You’ll Find Here
 
 - 📁 `Week 1/`, `Week 2/`, etc. – My daily learning folders.
 - 📓 Colab files with:
@@ -16,7 +16,7 @@ This space documents my **daily progress**, learnings, and hands-on practice as 
 
 ---
 
-## 💡 Why This Repo?
+##  Why This Repo?
 
 I'm keeping track of my ML learning for:
 - **Accountability**
@@ -26,16 +26,16 @@ I'm keeping track of my ML learning for:
 
 ---
 
-## 🚀 Tech & Tools Used
+##  Tech & Tools Used
 
-- Python 🐍
+- Python 
 - Pandas, NumPy, Matplotlib, scikit-learn
 - Google Colab
 - Git & GitHub for version control
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 If you find this useful or have suggestions, feel free to connect or contribute!
 
